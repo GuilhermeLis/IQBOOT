@@ -1,6 +1,6 @@
-#IQBoot
+# IQBoot
 
-##Things the boot can do
+## Things the boot can do
 
 - Seleção do Tipo da Conta ( Treinamento ou Real)
 - Stop Loss ( Valor fixo ou porcentagem da banca )

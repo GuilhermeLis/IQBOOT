@@ -1,0 +1,9 @@
+{
+  "name": "IQBoot",
+  "version": "1.0.0",
+  "description": "A telegram Boot to help people to use the IQ",
+  "main": "index.js",
+  "repository": "https://github.com/GuilhermeLis/IQBOOT.git",
+  "author": "Guilherme Lisboa <guilisboadasilva@gmail.com>",
+  "license": "MIT"
+}
