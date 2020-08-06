@@ -1,3 +1,3 @@
 const a = 8;
 
-console.log(a)
+// var pyshell = new PythonShell("./python_codes/test.py")
